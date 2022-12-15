@@ -1,0 +1,36 @@
+{
+  "details": [
+    {
+      "name": "Amruta",
+      "email": "amruta@gmail.com",
+      "contact": "2323232323",
+      "age": "20",
+      "img": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "id": 2
+    },
+    {
+      "name": "Prasanna",
+      "email": "prasanna@gmail.com",
+      "contact": "5678543456",
+      "age": "24",
+      "img": "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "id": 3
+    },
+    {
+      "name": "Isha",
+      "email": "isha@gmail.com",
+      "contact": "3434343434",
+      "age": "3",
+      "img": "https://images.unsplash.com/photo-1657117998238-df53ddab910d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "id": 4
+    },
+    {
+      "name": "Prakash",
+      "email": "prakash@gmail.com",
+      "contact": "6767676767",
+      "age": "48",
+      "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "id": 5
+    }
+  ]
+}
